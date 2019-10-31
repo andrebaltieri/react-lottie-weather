@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-lottie-weather/static/css/main.10b5f752.chunk.css",
+    "main.js": "/react-lottie-weather/static/js/main.2a33a423.chunk.js",
+    "main.js.map": "/react-lottie-weather/static/js/main.2a33a423.chunk.js.map",
+    "runtime-main.js": "/react-lottie-weather/static/js/runtime-main.2d6df9bb.js",
+    "runtime-main.js.map": "/react-lottie-weather/static/js/runtime-main.2d6df9bb.js.map",
+    "static/js/2.05a10421.chunk.js": "/react-lottie-weather/static/js/2.05a10421.chunk.js",
+    "static/js/2.05a10421.chunk.js.map": "/react-lottie-weather/static/js/2.05a10421.chunk.js.map",
+    "index.html": "/react-lottie-weather/index.html",
+    "precache-manifest.f5dd2c8abd1b3db547a9f87e2e40ab1c.js": "/react-lottie-weather/precache-manifest.f5dd2c8abd1b3db547a9f87e2e40ab1c.js",
+    "service-worker.js": "/react-lottie-weather/service-worker.js",
+    "static/css/main.10b5f752.chunk.css.map": "/react-lottie-weather/static/css/main.10b5f752.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6df9bb.js",
+    "static/js/2.05a10421.chunk.js",
+    "static/css/main.10b5f752.chunk.css",
+    "static/js/main.2a33a423.chunk.js"
+  ]
+}
